@@ -23,7 +23,7 @@ My first milestone Arduino nano to the servo and from the arduino to the PN532 a
 
 [![First Milestone](https://img.youtube.com/vi/2mGkNd5RJp4/maxresdefault.jpg)](https://www.youtube.com/watch?v=2mGkNd5RJp4 "First Milestone")
 
-# Starter Project
+# Starter Project - Useless Machine
 My project is called the Useless Machine. In the box there is a motor that controls the arm that pushes the door on top open to enable it to push the switch. On top of the motor there is a PCB that has the LED that turns red when the arm is going up and green when it was going down. It also has the switch shown at the top and the one that controls the LED when the arm hits it. I enjoyed soldering and I struggled with drilling the screws into the corner posts but i overcame that by drilling holes in them.
 
 [![Starter Project](https://img.youtube.com/vi/XSbWDg1WIhI/maxresdefault.jpg)](https://www.youtube.com/watch?v=XSbWDg1WIhI "Starter Project")
