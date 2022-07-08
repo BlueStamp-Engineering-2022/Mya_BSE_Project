@@ -48,9 +48,8 @@ void setup() {
   strip.setBrightness(50); // Set BRIGHTNESS to about 1/5 (max = 255)
   strip.clear();         //   Set all pixels in RAM to 0 (off)
 }
-void theaterChaseRainbow(int wait) {
-  int firstPixelHue = 0;     // First pixel starts at red (hue 0)
-}
+
+
 void theaterChase(uint32_t color, int wait) {
   for(int a=0; a<10; a++) {  // Repeat 10 times...
     for(int b=0; b<3; b++) { //  'b' counts from 0 to 2...
@@ -119,7 +118,7 @@ void loop() {
 }
       }
     
-  void theaterChaseRanibow(uint32_t color, int wait) {
+  void theaterChaseRainbow(uint32_t color, int wait) {
   for(int a=0; a<10; a++) {  // Repeat 10 times...
     for(int b=0; b<3; b++) { //  'b' counts from 0 to 2...
       strip.clear();         //   Set all pixels in RAM to 0 (off)
