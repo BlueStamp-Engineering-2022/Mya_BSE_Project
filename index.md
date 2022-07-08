@@ -8,7 +8,7 @@ This project is a lock box that can unlock with a NFC ring or tag using an Ardun
 ![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
   
 # Final Milestone
-My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
+My final milestone is my modifications to my box. I decided that I wanted to add LEDs to bring the whole project together. I implimented code into the arduino that allows the LEDs to turn on when i unlock the box. Once I was done with that I wanted to make a rainbow pattern instead of just a red light so I implimented a code that would make a rainbow when the box unlocked. Once that was done I wanted the light to turn off one the rainbow pattern finished. this was the most challenging part of my project because I could not find the code that turns the LEDs off. Once I figured it out I installed the LEDs to the box and finished up the final touches. 
 
 [![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone")
 
