@@ -5,7 +5,7 @@ This project is a lock box that can unlock with a NFC ring or tag using an Ardun
 |:--:|:--:|:--:|:--:|
 | Mya Patel | Irvington High School | Mechanical Engineering | Incoming Junior
 
-![Headstone Image](https://photos.google.com/share/AF1QipP7_22Q3D-zpxco7W_U-vXEI7oBlBkMPE-CGVUpT0Cc0Vgh-Wigc7rzlNEuOBEoYQ/photo/AF1QipMx8kt3gFq7fifCbPBTjVe1_wKWUPs0iO7YCgL2?key=NTU3UE9oUGgxbVNpZnltdVd0UTBJTC1DSlRnVmxn)
+![Headstone Image](https://lh3.googleusercontent.com/pw/AM-JKLXRWiQh70-bYwbIWckE6twj6yu88aGXqqFCU7loSs1xke6m9tPij7RRvKwKxRAWtjmV79PpDRyHhKNP29SBD-wseCzDDIrMZAXmhjaCZdLwDpPmJo5C7-PQ5FTPAi9TP4JkfB4a5L5-fH1jEu_MP86U=w515-h686-no?authuser=0)
   
 # Final Milestone
 My final milestone is my modifications to my box. I decided that I wanted to add LEDs to bring the whole project together. I implimented code into the arduino that allows the LEDs to turn on when i unlock the box. Once I was done with that I wanted to make a rainbow pattern instead of just a red light so I implimented a code that would make a rainbow when the box unlocked. Once that was done I wanted the light to turn off one the rainbow pattern finished. this was the most challenging part of my project because I could not find the code that turns the LEDs off. In order to do that I had to use the .fill function so all of the lights would go to black. Once I figured it out I installed the LEDs to the box and finished up the final touches. 
