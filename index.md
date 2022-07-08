@@ -1,5 +1,5 @@
 ﻿# NFC Ring Box
-This project is a lock box that can unlock with a NFC ring or tag using an Ardunio Nano and a PN532. The box that is locked from the inside, and there is a sensor on the inside lid that can detect an NFC tag to open the box. The lock mechanism consists of a servo and an inside lock system.
+This project is a lock box that can unlock with a NFC ring or tag using an Ardunio Nano and a PN532. The box that is locked from the inside, and there is a sensor on the inside lid that can detect an NFC tag to open the box. The lock mechanism consists of a servo and an string lock system.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
